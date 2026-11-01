@@ -19,3 +19,4 @@ Her geri bildirim ve her haftalık değerlendirmeden sonra buraya bir satır ekl
 - Depo: github.com/aykmayk7/sukrapack-instagram (commit sabitli raw URL)
 - Yayın/programlama: Meta Business Suite (Metricool ücretsiz limiti doldu)
 - Profil linki: Business Suite > Edit Instagram profile > Links (web'den değişmiyor)
+- Business Suite hikayeye anket çıkartması ekleyemiyor; anket gereken hikayede ya Aykan telefondan ekler ya da DM ile oylama (A/B/C) kullanılır.
