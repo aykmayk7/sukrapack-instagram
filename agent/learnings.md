@@ -21,4 +21,6 @@ Her geri bildirim ve her haftalık değerlendirmeden sonra buraya bir satır ekl
 - Profil linki: Business Suite > Edit Instagram profile > Links (web'den değişmiyor)
 - Business Suite hikayeye anket çıkartması ekleyemiyor; anket gereken hikayede ya Aykan telefondan ekler ya da DM ile oylama (A/B/C) kullanılır.
 - Kapanış karelerinde "sukra" yazısının S harfi yerine logo (iki yeşil yaprak + altın kamış çubuğu) kullanılır. Canva'da vektör: viewBox 120; yaprak1 "M90 18 C70 12 40 20 30 50 C52 50 78 40 90 18 Z", yaprak2 "M30 102 C50 108 80 100 90 70 C68 70 42 80 30 102 Z", çubuk "M36.79 51.56 L84.79 58.56 A5.5 5.5 0 0 1 83.21 69.44 L35.21 62.44 A5.5 5.5 0 0 1 36.79 51.56 Z". Koyu zeminde yaprak #6FBF8A, çubuk #E3B877.
-- Canva tasarımlarında ürün görselleri stok/AI değil, sukragroup.com/img/urunler/ altındaki gerçek ürün fotoğraflarıdır.
+- Aykan şimdilik Canva kullanılmasını istemiyor (1 Kas 2026). Tasarım ve video kendi hattımızla (HTML→Playwright→ffmpeg) üretilir.
+- Reels müziği: Business Suite Reels composer > Edit > Audio kütüphanesinden eklenir (telif kontrolü otomatik). Prestij tonu için lounge/lüks enstrümantal seç.
+- (Canva kullanılırsa) ürün görselleri stok/AI değil, sukragroup.com/img/urunler/ altındaki gerçek ürün fotoğraflarıdır.

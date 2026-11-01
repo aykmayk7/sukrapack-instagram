@@ -22,6 +22,7 @@ Her yeni gönderi buraya eklenir. Haftalık değerlendirmede (audit) Insights ra
 | R1 | 15 sn tanıtım | Reels | Ekim 2026 | Yayınlandı | |
 | H | 29 Ekim + 7 ürün hikayesi | Hikaye | Ekim 2026 | Yayınlandı | |
 | H2 | Pazar kahvaltısı (3 kare, 3. kare DM ile oylama A/B/C) | Hikaye | 1 Kas ~13:15 | Yayınlandı | |
+| R2 | Ucuz kutu, pahalı yemeği ucuzlatır (görüş) | Reels 13 sn + müzik (Luxury Lounge, Sound Spinner) | 1 Kas ~14:00 | Yayınlandı | |
 | 16 | Paket servis müşterisinin 3 şikâyeti | Carousel 4 | 2 Kas 19:30 | Programlı | |
 | 17 | Havuz başında cam yok | Tek görsel | 4 Kas 19:30 | Programlı | |
 | 18 | Plastiksiz rozeti | Tek görsel | 6 Kas 19:30 | Programlı | |
