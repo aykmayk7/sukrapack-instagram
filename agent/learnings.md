@@ -24,3 +24,4 @@ Her geri bildirim ve her haftalık değerlendirmeden sonra buraya bir satır ekl
 - Aykan şimdilik Canva kullanılmasını istemiyor (1 Kas 2026). Tasarım ve video kendi hattımızla (HTML→Playwright→ffmpeg) üretilir.
 - Reels müziği: Business Suite Reels composer > Edit > Audio kütüphanesinden eklenir (telif kontrolü otomatik). Prestij tonu için lounge/lüks enstrümantal seç.
 - (Canva kullanılırsa) ürün görselleri stok/AI değil, sukragroup.com/img/urunler/ altındaki gerçek ürün fotoğraflarıdır.
+- "sukra" yazısında S yerine logo kullanılırken logonun boş payı kırpılır (viewBox "28 12 64 98"); S ile "u" arası, harfler arası mesafeyle aynı olmalı. Hazır fonksiyon: gen/ig8.py wordmark(). (Aykan geri bildirimi, 5 Kas)
