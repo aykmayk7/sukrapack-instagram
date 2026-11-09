@@ -12,7 +12,10 @@ Her geri bildirim ve her haftalık değerlendirmeden sonra buraya bir satır ekl
 - Yayınlama ve programlama yalnızca Aykan açıkça istediğinde yapılır.
 
 ## Performans bulguları
-- (Henüz yok. İlk haftalık değerlendirmeden sonra doldurulacak; 6 gönderiden az veriyle kural çıkarılmaz.)
+- 9 Kas 2026 (20 feed gönderisi + 2 Reels, Insights son 28 gün): Reels yeni kişiye ulaşan tek format. "Ucuz kutu" Reels erişim 121, feed medyanı ~19'un ~6 katı; görüntülenmelerin %88'i takipçi olmayanlardan. Geçen haftanın 4 tek görsel/carousel'i %0–13 takipçi olmayan. → Her hafta en az 1 Reels zorunlu. Güven: orta (tek güçlü Reels; R1 erişim 39 ile de medyanın 2 katı).
+- 9 Kas 2026: 22 gönderide kaydetme 0, paylaşım yalnızca ilk gönderide (2). Takip yalnızca Reels'ten ve ilk gönderiden geldi (1+1). → Kaydedilecek içerik (kontrol listesi, tablo) test ediliyor (22 Kontrol carousel). Güven: yüksek (veri çok, sonuç tutarlı 0).
+- 9 Kas 2026: Geçen haftanın feed erişimi 10–14, 29 Eki gönderilerinin ~19'unun altında; takipçi tabanı küçük, tek görseller yalnız takipçide dolaşıyor. Güven: düşük (1 hafta).
+- Reels ortalama izlenme 3 sn (13 sn video): ilk 2 saniye kanca kritik, metin ilk karede okunur olmalı.
 
 ## Teknik akış
 - Tasarım: Python ile HTML → Playwright ile PNG (1080×1350 / 1080×1920)
