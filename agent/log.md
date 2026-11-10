@@ -27,6 +27,7 @@ Her yeni gönderi buraya eklenir. Haftalık değerlendirmede (audit) Insights ra
 | 21 | Restoranlara özel bir şey geliyor (rozet teaser) | Tek görsel | 5 Kas 11:17 | Yayınlandı | erişim 11 · gör. 21 · takipçi olmayan %0 · kay 0 · pay 0 · takip 0 |
 | H4 | Otel kataloğu duyurusu (2 kare, DM'den katalog iste) | Hikaye | 9 Kas ~12:15 | Yayınlandı | |
 | H5 | Bugün sahadayız (rota haritası, adresinizi DM'den yazın) | Hikaye | 9 Kas ~12:20 | Yayınlandı | |
+| H6 | 10 Kasım anma (Atatürk, 'Saygı, minnet ve özlemle', logo+ukra) | Hikaye | 10 Kas 10:16 | Yayınlandı | |
 | 16 | Paket servis müşterisinin 3 şikâyeti | Carousel 4 | 2 Kas 19:30 | Yayınlandı | erişim 14 · gör. 46 · takipçi olmayan %13 (6/46) · kay 0 · pay 0 · takip 0 |
 | 17 | Havuz başında cam yok | Tek görsel | 4 Kas 19:30 | Yayınlandı | erişim 12 · gör. 23 · takipçi olmayan %0 · kay 0 · pay 0 · takip 0 |
 | 18 | Plastiksiz rozeti | Tek görsel | 6 Kas 19:30 | Yayınlandı | erişim 10 · gör. 30 · takipçi olmayan %0 · kay 0 · pay 0 · takip 0 |
