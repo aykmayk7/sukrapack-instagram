@@ -29,3 +29,8 @@ Her geri bildirim ve her haftalık değerlendirmeden sonra buraya bir satır ekl
 - (Canva kullanılırsa) ürün görselleri stok/AI değil, sukragroup.com/img/urunler/ altındaki gerçek ürün fotoğraflarıdır.
 - KURAL (9 Kas): Tüm tasarımlarda "sukra" kelimesi DAİMA logo + "ukra" olarak yazılır (logo = S). Düz metin "sukra" kullanılmaz; zemin rengi ne olursa olsun aynı kilit (yeşil yapraklar + altın/bakır çubuk, "ukra" zemine göre krem veya koyu kahve). Ayrıntı:
 - "sukra" yazısında S yerine logo kullanılırken logonun boş payı kırpılır (viewBox "28 12 64 98"); S ile "u" arası, harfler arası mesafeyle aynı olmalı. Hazır fonksiyon: gen/ig8.py wordmark(). (Aykan geri bildirimi, 5 Kas)
+
+## Satış içgörüleri (sahadan)
+- 10 Kas 2026 · Kushimoto yeme-içme müdürü: Misafir servisinde (havuz/plaj/restoran) bagas, porselen yıkamaya göre MALİYETLİ bulunuyor; tabak yıkamak onlar için neredeyse bedava sayılıyor. Otellerde misafir servisini "maliyet tasarrufu" diye satma.
+- Asıl fırsat: PERSONEL YEMEKHANESİ. Tabak toplama/yıkama, bulaşık makinesinin su ve elektriği, deterjan, bulaşıkçı/yemekhane personeli maliyeti birikince bagas daha ucuz çıkıyor. Otellere giriş kapısı personel yemekhanesi olmalı; misafir servisi (havuz, plaj, etkinlik) ikinci adımda şıklık/güvenlik argümanıyla.
+- Otel görüşmesinde sorulacaklar: günlük personel yemeği öğün sayısı, yemekhane bulaşıkçı sayısı, bulaşık makinesi sayısı/çalışma saati. Bunlarla öğün başı yıkama maliyetini birlikte hesapla.
