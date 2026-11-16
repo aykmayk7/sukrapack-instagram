@@ -37,8 +37,14 @@ Her yeni gönderi buraya eklenir. Haftalık değerlendirmede (audit) Insights ra
 | R3 | En kalabalık şubeniz, müşterinizin evi (görüş) | Reels 13 sn | 18 Kas 19:30 | Onay bekliyor | |
 | 24 | Bir koli yeter (minimum sipariş yok) | Tek görsel | 20 Kas 19:30 | Onay bekliyor | |
 | 25 | Kutuları masanızda görün (yerinde sunum teklifi) | Tek görsel | 22 Kas 19:30 | Onay bekliyor | |
+| 26 | Personel yemekhanesinde bir tabak kaça yıkanıyor? (oteller) | Carousel 6 | 23 Kas 19:30 | Onay bekliyor | |
+| R4 | Kadrajda paketiniz var (görüş) | Reels 12 sn | 25 Kas 19:30 | Onay bekliyor | |
+| 27 | Yılbaşına 5 hafta (stok planı) | Tek görsel | 27 Kas 19:30 | Onay bekliyor | |
+| 28 | Sahadan bir not (otel, personel yemekhanesi) | Tek görsel | 29 Kas 19:30 | Onay bekliyor | |
 
 Insights notu (9 Kas): sonuçlar Business Suite > Insights > Content, son 28 gün (11 Eki–7 Kas). Hikaye 5 Kas: 14 ve 16 görüntülenme. 02–15 satırları açıklama metnine göre eşleştirildi.
 
 Hazır, onay bekliyor: Haftanın ürünü hikayesi (3 gözlü kutu) — öneri 5 Kas 19:30.
 Bekleyen: "Bagas mı, PLA mı?" (tedarikçinin PLA olmadığına dair yazılı teyidi gelince).
+
+Değerlendirme notu (16 Kas): Insights alınamadı — Chrome uzantısı bağlı değildi, yerleşik tarayıcıda Meta oturumu açık değil. 16–22 Kas satırlarının (22, R3, 24, 25) programlanıp programlanmadığı doğrulanamadı. Premium Reels (restoran, otel/beach club, 14 Kas üretildi) log'da yok; yayın durumu bilinmiyor.
